@@ -1,5 +1,3 @@
-FROM anaderi/rep-jupyterhub
+FROM yandex/rep:0.6.4
 MAINTAINER Noel Dawe <noel.dawe@cern.ch>
 
-RUN pip2 install rootpy==0.8.0 root_numpy==4.3.0
-RUN apt-get install -y libroot-roofit-dev
