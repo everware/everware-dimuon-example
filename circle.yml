@@ -4,9 +4,8 @@ machine:
     - sudo chmod 0755 /usr/bin/docker
   services:
     - docker
-
-environment:
-  START_NOTEBOOK: "jpsi.ipynb"
+  environment:
+    START_NOTEBOOK: jpsi.ipynb
 
 dependencies:
   override:
