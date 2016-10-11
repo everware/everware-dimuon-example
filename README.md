@@ -1,7 +1,7 @@
 CMS dimuon analysis
 ===================
 
-[![integration check status](https://img.shields.io/circleci/project/anaderi/everware-dimuon-example.svg)](https://circleci.com/gh/anaderi/everware-dimuon-example/)
+[![integration check status](https://img.shields.io/circleci/project/everware/everware-dimuon-example.svg)](https://circleci.com/gh/everware/everware-dimuon-example/)
 
 
 This analysis uses dimuon events from the CMS opendataportal. This
